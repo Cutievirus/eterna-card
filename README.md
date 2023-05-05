@@ -1,4 +1,3 @@
 Eterna Card
 ==================================
-
-\ ゜o゜)ノ
+The beginnings of a card game engine
