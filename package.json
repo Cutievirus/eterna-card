@@ -20,7 +20,8 @@
     "@snowpack/plugin-sass": "^1.4.0",
     "fs-extra": "^11.1.1",
     "@loadable/component": "^5.15.3",
-    "react-shadow": "^20.0.0"
+    "react-shadow": "^20.0.0",
+    "node-cmd": "^5.0.0"
   },
   "devDependencies": {
     "snowpack": "^3.8.8"
